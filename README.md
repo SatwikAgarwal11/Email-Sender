@@ -1,5 +1,5 @@
 # Email-Sender
-🔴 This is an Automated Bulk Email 📧 Sender is a Python-based application designed to simplify the process of sending personalized bulk emails to a large number of recipients. 
+🔴 This is an Automated Bulk Email 📧 Sender. It is a Python-based application designed to simplify the process of sending personalized bulk emails to a large number of recipients. 
 
 🔴 The application supports CSV and Excel files 📂 for loading recipient lists and provides a user-friendly graphical interface for configuring email settings, adding attachments, and managing recipients. 
 
